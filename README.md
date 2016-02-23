@@ -1,2 +1,0 @@
-# ejAngularJS
-Practica de AngularJS 
